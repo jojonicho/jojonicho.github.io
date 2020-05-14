@@ -1,32 +1,27 @@
 ---
 layout: cv
-title: David Whipp's CV
+title: Jonathan Nicholas's CV
 ---
-# David Whipp
-Associate professor, University of Helsinki
+# Jonathan Nicholas
+CS Undergrad, Universitas Indonesia
 
 Institute of Seismology, Department of Geosciences and Geography<br/>
-P.O. Box 68 (Pietari Kalmin katu 5)<br/>
-FI-00014 University of Helsinki, Finland<br/>
+11610 West Jakarta, North Kembangan<br/>
 
-<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
+<a href="firstname.lastname@helsinki.fi">jojonicho181@gmail.com</a> - +62 (0)812 9100 0903
 
 <div id="webaddress">
-  <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
-  <a href="https://wiki.helsinki.fi/x/3xjABg"><i class="fas fa-users"></i> wiki.helsinki.fi/x/3xjABg (group)</a><br/>
-  <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
-  <a href="https://orcid.org/0000-0002-3820-6886"><i class="ai ai-orcid"></i> 0000-0002-3820-6886</a> - 
-  <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
-  <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>
+  <a href="https://jojonicho.wtf"><i class="fas fa-home"></i> jojonicho.wtf</a> - 
+  <a href="https://github.com/jojonicho"><i class="fab fa-github"></i> jojonicho</a> - 
 </div>
 
 ## Education
 
-`2003-2008`
-**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
+`2019-present`
+**B.S., Computer Science**, *Universitas Indonesia*, Depok, West Java, Indonesia.
 
-`1998-2002`
-**B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
+`2016-2019`
+**Associates, Natural Science**, *SMA Kolese Kanisius*, Menteng Raya 64, Central Jakarta, Indonesia.
 
 ## Experience
 
