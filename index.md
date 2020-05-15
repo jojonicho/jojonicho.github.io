@@ -11,7 +11,7 @@ CS Undergrad, Universitas Indonesia
 
 <div id="webaddress">
   <a href="https://jojonicho.wtf"><i class="fas fa-home"></i> jojonicho.wtf</a> - 
-  <a href="https://github.com/jojonicho"><i class="fab fa-github"></i> jojonicho</a> - 
+  <a href="https://github.com/jojonicho"><i class="fab fa-github"></i> jojonicho</a>
 </div>
 
 ## Education
@@ -38,7 +38,7 @@ CS Undergrad, Universitas Indonesia
 
 ## Achievements
 
-*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*
+<!-- *Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.* -->
 
 ### Books
 
