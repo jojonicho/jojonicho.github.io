@@ -26,14 +26,15 @@ CS Undergrad, Universitas Indonesia
 
 `2020-present`
 **Senior Member**, *Data Science SIG, Ristek Fasilkom UI*, Depok, West Java.<br>
-`Python` `Machine Learning` `Data Mining` `Pandas` `CatBoost` `Seaborn`
+<!-- `Python` `Machine Learning` `Data Mining` `Pandas` `CatBoost` `Seaborn` -->
 
 `2020-present`
 **Backend Developer**, *Information Technology Development, BEM Fasilkom UI*, Depok, West Java.<br>
-`Python` `Django`
+<!-- `Python` `Django` -->
 
 `2019-present`
-**Frontend Developer**, *Pesta Rakyat Komputer*, Depok, West Java. `JavaScript` `React` `Styled Components` `Firebase`
+**Frontend Developer**, *Pesta Rakyat Komputer*, Depok, West Java.
+<!-- `JavaScript` `React` `Styled Components` `Firebase` -->
 
 ## Achievements
 
