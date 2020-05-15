@@ -5,7 +5,6 @@ title: Jonathan Nicholas's CV
 # Jonathan Nicholas
 CS Undergrad, Universitas Indonesia
 
-Institute of Seismology, Department of Geosciences and Geography<br/>
 11610 West Jakarta, North Kembangan<br/>
 
 <a href="firstname.lastname@helsinki.fi">jojonicho181@gmail.com</a> - +62 (0)812 9100 0903
@@ -25,44 +24,24 @@ Institute of Seismology, Department of Geosciences and Geography<br/>
 
 ## Experience
 
-`2017-present`
-**Associate professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+`2020-present`
+**Senior Member**, *Data Science SIG, Ristek Fasilkom UI*, Depok, West Java.<br>
+`Python` `Machine Learning` `Data Mining` `Pandas` `CatBoost` `Seaborn`
 
-`2013-2023`
-**Adjunct of the Faculty of Graduate Studies**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
+`2020-present`
+**Backend Developer**, *Information Technology Development, BEM Fasilkom UI*, Depok, West Java.<br>
+`Python` `Django`
 
-`2013-2016`
-**Assistant professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+`2019-present`
+**Frontend Developer**, *Pesta Rakyat Komputer*, Depok, West Java. `JavaScript` `React` `Styled Components` `Firebase`
 
-`2009-2012`
-**Postdoctoral fellow**, *Department of Oceanography, Dalhousie University*, Halifax, NS, Canada.
-
-`2008-2009`
-**Postdoctoral fellow**, *Géosciences Rennes, University of Rennes 1*, Rennes, France.
-
-`2007`
-**Geoscientist (intern)**, *ExxonMobil Exploration Company*, Houston, TX, USA.
-
-`2003-2008`
-**Research assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
-
-`2001-2003`
-**Laboratory assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
-
-`2000-2002`
-**Tech consultant and Sites rover**, *Campus Computing Sites, University of Michigan*, Ann Arbor, MI, USA.
-
-## Publications
+## Achievements
 
 *Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*
 
 ### Books
 
 H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Geographic Data Analysis*. CRC Press (expected publication in 2021). ***In progress***, online at [https://pythongis.org/](https://pythongis.org/).
-
-<!--
-### Journal articles, in preparation
--->
 
 ### Journal articles
 
