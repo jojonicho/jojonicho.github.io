@@ -1,4 +1,4 @@
-I"v<h1 id="jonathan-nicholas">Jonathan Nicholas</h1>
+I"é<h1 id="jonathan-nicholas">Jonathan Nicholas</h1>
 <p>Computer Science Undergraduate, Universitas Indonesia 2023</p>
 
 <p>11610 West Jakarta, North Kembangan<br /></p>
@@ -37,13 +37,16 @@
 State management using react hooks and styled using Emotion.js<br />
 Implemented backend using GraphQL and Markdown.</p>
 
-<h3 id="event-registration-score-and-classement-ui">Event Registration, Score and Classement UI</h3>
-<p>Form submission and score displaying from Django REST API web application using React, Redux and Hooks. <a href="https://perak.cs.ui.ac.id/">Website</a> <a href="https://github.com/jojonicho/perak-frontend">Github</a><br />
+<h3 id="event-registration-score-and-classement-displayer">Event Registration, Score and Classement Displayer</h3>
+<p>Form submission and score displaying from Django REST API web application built with React, Redux and Hooks. <a href="https://perak.cs.ui.ac.id/">Website</a> <a href="https://github.com/jojonicho/perak-frontend">Github</a><br />
 Backend admin dashboard using firebase.<br />
 Styled using styled-components</p>
 <h3 id="food-scheduler">Food Scheduler</h3>
-<p>Food consumption reporting mobile application using Flutter and Firebase. <a href="https://github.com/jojonicho/foodget">Github</a><br />
+<p>Food consumption reporting mobile UI application built with Flutter and Firebase. <a href="https://drive.google.com/open?id=1Y1YdTRXNRuR8WJgD4Ok2WV8n1y8IN-zC">APK</a><a href="https://github.com/jojonicho/foodget">Github</a><br />
 Authorization using google auth.<br /></p>
+<h3 id="basketball-courts-maps">Basketball Courts Maps</h3>
+<p>Basketball courts search mobile UI application built with Flutter and Google Places, Maps API. <a href="https://github.com/jojonicho/pickup">Github</a><br />
+State management using BloC.<br /></p>
 
 <h2 id="achievements">Achievements</h2>
 
