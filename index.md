@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Jonathan Nicholas's CV
+title: Resume_JonathanNicholas
 ---
 # Jonathan Nicholas
 Computer Science Undergraduate, Universitas Indonesia 2023
@@ -11,7 +11,8 @@ Jakarta Barat, Indonesia<br/>
 
 <div id="webaddress">
   <a href="https://jojonicho.wtf"><i class="fas fa-home"></i> www.jojonicho.wtf</a> - 
-  <a href="https://github.com/jojonicho"><i class="fab fa-github"></i> github.com/jojonicho</a>
+  <a href="https://github.com/jojonicho"><i class="fab fa-github"></i> github.com/jojonicho</a> - 
+  <a href="https://linkedin.com/in/joni"><i class="fab fa-linkedin"></i> linkedin.com/in/joni</a>
 </div>
 
 ## Education
@@ -46,12 +47,12 @@ Implemented backend using GraphQL and Markdown.
 ### Event Registration, Score and Classement Displayer
 Form submission and score displaying from Django REST API web application built with React, Redux and Hooks. [Website](https://perak.cs.ui.ac.id/) [Github](https://github.com/jojonicho/perak-frontend)<br>
 Backend admin dashboard using firebase and styled using styled-components.<br>
-Associated with Perak Fasilkom UI.
+Associated with Pesta Rakyat Komputer Fasilkom UI.
 ### Food Scheduler
 Food consumption reporting mobile UI application built with Flutter and Firebase. [APK](https://drive.google.com/open?id=1Y1YdTRXNRuR8WJgD4Ok2WV8n1y8IN-zC) [Github](https://github.com/jojonicho/foodget)<br>
 Authorization using google auth.<br>
 ### Basketball Courts Maps
-Basketball courts search mobile UI application built with Flutter and Google Places, Maps API. [Github](https://github.com/jojonicho/pickup)<br>
+Basketball courts search mobile application built with Flutter and Google Places, Maps API. [Github](https://github.com/jojonicho/pickup)<br>
 State management using BloC.<br>
 
 ## Achievements
@@ -84,9 +85,9 @@ Firebase
 Data Structures and Algorithms [leetcode](https://leetcode.com/jojonicho181/)
 ### Git
 Gitlab CI/CD<br>
-### Golang
 ### Java
 OOP
+### Golang
 
 ## Languages
 English: Fluent<br>
