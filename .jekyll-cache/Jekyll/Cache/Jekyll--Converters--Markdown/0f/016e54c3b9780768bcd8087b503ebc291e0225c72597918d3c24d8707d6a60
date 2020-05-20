@@ -1,4 +1,4 @@
-I"¥<h1 id="jonathan-nicholas">Jonathan Nicholas</h1>
+I"¡<h1 id="jonathan-nicholas">Jonathan Nicholas</h1>
 <p>Computer Science Undergraduate, Universitas Indonesia 2023</p>
 
 <p>11610 West Jakarta, North Kembangan<br /></p>
@@ -20,15 +20,15 @@
 
 <h2 id="experience">Experience</h2>
 
-<p><code class="highlighter-rouge">2020-present</code>
+<p><code class="highlighter-rouge">February 2020-present</code>
 <strong>Senior Data Science Member</strong>, <em>Ristek Fasilkom UI</em>, Depok, West Java.
 <!-- `Python` `Machine Learning` `Data Mining` `Pandas` `CatBoost` `Seaborn` --></p>
 
-<p><code class="highlighter-rouge">2020-present</code>
+<p><code class="highlighter-rouge">February 2020-present</code>
 <strong>Backend Developer</strong>, <em>Information Technology Development, BEM Fasilkom UI</em>, Depok, West Java.
 <!-- `Python` `Django` --></p>
 
-<p><code class="highlighter-rouge">2019-present</code>
+<p><code class="highlighter-rouge">December 2019-present</code>
 <strong>Frontend Developer</strong>, <em>Pesta Rakyat Komputer</em>, Depok, West Java.
 <!-- `JavaScript` `React` `Styled Components` `Firebase` --></p>
 <h2 id="technical-projects">Technical Projects</h2>
@@ -39,13 +39,13 @@ Implemented backend using GraphQL and Markdown.</p>
 
 <h3 id="event-registration-score-and-classement-displayer">Event Registration, Score and Classement Displayer</h3>
 <p>Form submission and score displaying from Django REST API web application built with React, Redux and Hooks. <a href="https://perak.cs.ui.ac.id/">Website</a> <a href="https://github.com/jojonicho/perak-frontend">Github</a><br />
-Backend admin dashboard using firebase.<br />
-Styled using styled-components</p>
+Backend admin dashboard using firebase and styled using styled-components.<br />
+Associated with Perak Fasilkom UI.</p>
 <h3 id="food-scheduler">Food Scheduler</h3>
-<p>Food consumption reporting mobile UI application built with Flutter and Firebase. <a href="https://drive.google.com/open?id=1Y1YdTRXNRuR8WJgD4Ok2WV8n1y8IN-zC">APK</a><a href="https://github.com/jojonicho/foodget">Github</a><br />
-Authorization using google auth.<br />
-### 
-Food consumption reporting mobile UI application built with Flutter and Google Maps API. <a href="https://github.com/jojonicho/pickup">Github</a><br />
+<p>Food consumption reporting mobile UI application built with Flutter and Firebase. <a href="https://drive.google.com/open?id=1Y1YdTRXNRuR8WJgD4Ok2WV8n1y8IN-zC">APK</a> <a href="https://github.com/jojonicho/foodget">Github</a><br />
+Authorization using google auth.<br /></p>
+<h3 id="basketball-courts-maps">Basketball Courts Maps</h3>
+<p>Basketball courts search mobile UI application built with Flutter and Google Places, Maps API. <a href="https://github.com/jojonicho/pickup">Github</a><br />
 State management using BloC.<br /></p>
 
 <h2 id="achievements">Achievements</h2>
@@ -68,13 +68,14 @@ Node.js - Express<br />
 GraphQL<br /></p>
 <h3 id="python">Python</h3>
 <p>Django<br />
-Machine Learning - Pandas - Seaborn</p>
+Machine Learning - Data Manipulation - Data Visualization</p>
 <h3 id="database">Database</h3>
 <p>PostgreSQL</p>
 <h3 id="flutter">Flutter</h3>
 <p>Firebase</p>
-<h3 id="golang">Golang</h3>
 <h3 id="c">C++</h3>
+<p>Data Structures and Algorithms<a href="https://leetcode.com/jojonicho181/">leetcode</a></p>
+<h3 id="golang">Golang</h3>
 <h3 id="java">Java</h3>
 
 <h2 id="languages">Languages</h2>

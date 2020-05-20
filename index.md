@@ -5,7 +5,7 @@ title: Jonathan Nicholas's CV
 # Jonathan Nicholas
 Computer Science Undergraduate, Universitas Indonesia 2023
 
-11610 West Jakarta, North Kembangan<br/>
+Jakarta Barat, Indonesia<br/>
 
 <a href="jojonicho181@gmail.com">jojonicho181@gmail.com</a> - +62 812 9100 0903
 
@@ -17,22 +17,24 @@ Computer Science Undergraduate, Universitas Indonesia 2023
 ## Education
 
 `2019-present`
-**B.S., Computer Science** GPA: 4.0/4.0, *Universitas Indonesia*, Depok, West Java, Indonesia.
+**B.S., Computer Science**, *Universitas Indonesia*, Depok, West Java, Indonesia.<br>
+GPA: 4.00/4.00
+Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathematics.
 
 `2016-2019`
 **Associates, Natural Science**, *SMA Kolese Kanisius*, Menteng Raya 64, Central Jakarta, Indonesia.
 
 ## Experience
 
-`2020-present`
+`February 2020 - present`
 **Senior Data Science Member**, *Ristek Fasilkom UI*, Depok, West Java.
 <!-- `Python` `Machine Learning` `Data Mining` `Pandas` `CatBoost` `Seaborn` -->
 
-`2020-present`
+`February 2020 - present`
 **Backend Developer**, *Information Technology Development, BEM Fasilkom UI*, Depok, West Java.
 <!-- `Python` `Django` -->
 
-`2019-present`
+`December 2019 - present`
 **Frontend Developer**, *Pesta Rakyat Komputer*, Depok, West Java.
 <!-- `JavaScript` `React` `Styled Components` `Firebase` -->
 ## Technical Projects
@@ -43,10 +45,10 @@ Implemented backend using GraphQL and Markdown.
 
 ### Event Registration, Score and Classement Displayer
 Form submission and score displaying from Django REST API web application built with React, Redux and Hooks. [Website](https://perak.cs.ui.ac.id/) [Github](https://github.com/jojonicho/perak-frontend)<br>
-Backend admin dashboard using firebase.<br>
-Styled using styled-components
+Backend admin dashboard using firebase and styled using styled-components.<br>
+Associated with Perak Fasilkom UI.
 ### Food Scheduler
-Food consumption reporting mobile UI application built with Flutter and Firebase. [APK](https://drive.google.com/open?id=1Y1YdTRXNRuR8WJgD4Ok2WV8n1y8IN-zC)[Github](https://github.com/jojonicho/foodget)<br>
+Food consumption reporting mobile UI application built with Flutter and Firebase. [APK](https://drive.google.com/open?id=1Y1YdTRXNRuR8WJgD4Ok2WV8n1y8IN-zC) [Github](https://github.com/jojonicho/foodget)<br>
 Authorization using google auth.<br>
 ### Basketball Courts Maps
 Basketball courts search mobile UI application built with Flutter and Google Places, Maps API. [Github](https://github.com/jojonicho/pickup)<br>
@@ -73,14 +75,18 @@ Node.js - Express<br>
 GraphQL<br>
 ### Python
 Django<br>
-Machine Learning - Pandas - Seaborn
+Machine Learning - Data Manipulation - Data Visualization
 ### Database
 PostgreSQL
 ### Flutter
 Firebase
-### Golang
 ### C++
+Data Structures and Algorithms [leetcode](https://leetcode.com/jojonicho181/)
+### Git
+Gitlab CI/CD<br>
+### Golang
 ### Java
+OOP
 
 ## Languages
 English: Fluent<br>
