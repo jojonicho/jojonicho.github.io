@@ -17,7 +17,7 @@ Computer Science Undergraduate, Universitas Indonesia 2023
 ## Education
 
 `2019-present`
-**B.S., Computer Science**, *Universitas Indonesia*, Depok, West Java, Indonesia.
+**B.S., Computer Science** GPA: 4.0/4.0, *Universitas Indonesia*, Depok, West Java, Indonesia.
 
 `2016-2019`
 **Associates, Natural Science**, *SMA Kolese Kanisius*, Menteng Raya 64, Central Jakarta, Indonesia.
@@ -36,12 +36,12 @@ Computer Science Undergraduate, Universitas Indonesia 2023
 **Frontend Developer**, *Pesta Rakyat Komputer*, Depok, West Java.
 <!-- `JavaScript` `React` `Styled Components` `Firebase` -->
 ## Technical Projects
-### Portfolio
+### Portfolio, Blog
 Portfolio and blog web application built with Gatsby [Website](https://jojonicho.wtf) [Github](https://github.com/jojonicho/jojonicho)<br>
 State management using react hooks and styled using Emotion.js<br>
 Implemented backend using GraphQL and Markdown.
 
-### Event Registration, Score and Classement Displayer
+### Event Registration, Score and Classement Display
 Form submission and score displaying from Django REST API web application using React, Redux and Hooks. [Website](https://perak.cs.ui.ac.id/) [Github](https://github.com/jojonicho/perak-frontend)<br>
 Backend admin dashboard using firebase.<br>
 Styled using styled-components
