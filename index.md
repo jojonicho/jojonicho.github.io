@@ -16,12 +16,12 @@ Jakarta Barat, Indonesia<br/>
 
 ## Education
 
-`2019-present`
+`2019 - present`
 **B.S., Computer Science**, *Universitas Indonesia*, Depok, West Java, Indonesia.<br>
-GPA: 4.00/4.00
+GPA: 4.00/4.00<br>
 Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathematics.
 
-`2016-2019`
+`2016 - 2019`
 **Associates, Natural Science**, *SMA Kolese Kanisius*, Menteng Raya 64, Central Jakarta, Indonesia.
 
 ## Experience
