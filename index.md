@@ -46,26 +46,39 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 
 ## Technical Projects
 
+### Tierlist Maker
+
+`May 2020`
+[Website](https://tierlist.jojonicho.wtf) - [Github](https://github.com/jojonicho/tierlist)<br>
+**Tierlist GIF Search Engine with Typescript React**<br>
+
+- Drag and drop using react-beautiful-dnd
+- Styled with emotion@next
+- Integrated typescript for seamless autocomplete on API and Theme methods
+
 ### Portfolio, Blog
 
+`May 2020`
 [Website](https://jojonicho.wtf) - [Github](https://github.com/jojonicho/jojonicho)<br>
-**Portfolio and blog web application built with Gatsby**<br>
+**Portfolio and Blog Web App with Gatsby**<br>
 
-- State management using react hooks and styled using Emotion.js<br>
+- State management using react hooks and styled using Emotion.js
 - Implemented backend using GraphQL and Markdown.
 - Impacted over 1000 connections on LinkedIn through written [article](https://www.linkedin.com/posts/joni_the-gatsby-project-structure-activity-6667343046142783488-mKfn) about Gatsby.
 
 ### Event Registration, Score and Classement Displayer
 
+`March 2020`
 [Website](https://perak.cs.ui.ac.id/) - [Github](https://github.com/jojonicho/perak-frontend) - Associated with Pesta Rakyat Komputer.<br>
-**Form submission and score displaying web application built with React, Redux and Hooks**<br>
+**Form Submission and Score Classement Display Web App with React, Redux and Hooks**<br>
 
-- Backend admin dashboard using firebase and styled using styled-components.<br>
+- Backend admin dashboard using firebase and styled using styled-components.
 - Improved traffic by implementing beautiful and responsive layout for displaying classement of events.
 - Improved UX by giving user feedback through 404 page and loading progression bar.
 
 ### Food Scheduler
 
+`February 2020`
 [APK](https://drive.google.com/open?id=1Y1YdTRXNRuR8WJgD4Ok2WV8n1y8IN-zC) - [Github](https://github.com/jojonicho/foodget)<br>
 **Food consumption reporting mobile UI application built with Flutter and Firebase**<br>
 
@@ -73,6 +86,7 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 
 ### Basketball Courts Maps
 
+`July 2019`
 [Github](https://github.com/jojonicho/pickup)<br>
 **Basketball courts search mobile application built with Flutter and Google Places, Maps API**<br>
 
