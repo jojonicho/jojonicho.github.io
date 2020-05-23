@@ -53,8 +53,8 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 **Tierlist GIF Search Engine with Typescript React**<br>
 
 - Drag and drop using react-beautiful-dnd
-- Styled with emotion@next
-- Integrated typescript for seamless autocomplete on API and Theme methods
+- Styled with emotion@next and state management using Hooks
+- Integrated Typescript for seamless autocomplete on API and Theme methods
 
 ### Portfolio, Blog
 
@@ -125,6 +125,7 @@ React - Hooks - Redux<br>
 Gatsby<br>
 Node.js - Express<br>
 GraphQL<br>
+Typescript
 
 ### Python
 
