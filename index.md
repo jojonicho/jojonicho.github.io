@@ -66,7 +66,7 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 - Implemented backend using GraphQL and Markdown.
 - Impacted over 1000 connections on LinkedIn through written [article](https://www.linkedin.com/posts/joni_the-gatsby-project-structure-activity-6667343046142783488-mKfn) about Gatsby.
 
-### Event Registration, Score and Classement Displayer
+### Soccer and Games League
 
 `March 2020`
 [Website](https://perak.cs.ui.ac.id/) - [Github](https://github.com/jojonicho/perak-frontend) - Associated with Pesta Rakyat Komputer.<br>
@@ -115,7 +115,7 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 `May 2020`
 **Data Mining, JOINTS 2020**. _Universitas Gadjah Mada_. Team name: ZephyrOne [preliminaries](https://www.kaggle.com/c/datmin-joints-2020/leaderboard).
 
-- Learned how to write a journal/paper through mentorship by one Traveloka's Data Science Intern.
+- Learned how to write a journal/paper through mentorship by one of Traveloka's Data Science Intern.
 
 ## Skills
 
@@ -138,7 +138,7 @@ PostgreSQL
 
 ### Flutter
 
-Firebase
+Firebase - BloC
 
 ### C++
 
@@ -151,8 +151,6 @@ Gitlab CI/CD<br>
 ### Java
 
 OOP
-
-### Golang
 
 ## Languages
 

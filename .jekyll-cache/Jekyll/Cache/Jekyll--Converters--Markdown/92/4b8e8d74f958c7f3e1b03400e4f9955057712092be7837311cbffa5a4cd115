@@ -1,4 +1,4 @@
-I"�<h1 id="jonathan-nicholas">Jonathan Nicholas</h1>
+I"[<h1 id="jonathan-nicholas">Jonathan Nicholas</h1>
 
 <p>Computer Science Undergraduate, Universitas Indonesia 2023</p>
 
@@ -41,40 +41,46 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 
 <h2 id="technical-projects">Technical Projects</h2>
 
-<h3 id="portfolio-blog">Portfolio, Blog</h3>
+<h3 id="tierlist-maker">Tierlist Maker</h3>
 
-<p><a href="https://tierlist.jojonicho.wtf">Website</a> - <a href="https://github.com/jojonicho/tierlist">Github</a><br />
-<strong>Tierlist GIF Search Engine with Typescript</strong><br /></p>
+<p><code class="highlighter-rouge">May 2020</code>
+<a href="https://giftr.jojonicho.wtf">Website</a> - <a href="https://github.com/jojonicho/giftr">Github</a><br />
+<strong>Giftr! Tierlist Maker and GIF Search Engine with Typescript React</strong><br /></p>
 
 <ul>
-  <li>
-    <h2 id="drag-and-drop-using-react-beautiful-dnd">Drag and drop using react-beautiful-dnd<br /></h2>
-  </li>
+  <li>Drag and drop using react-beautiful-dnd and styled with emotion@next</li>
+  <li>Integrated Typescript for seamless autocomplete on API and Theme methods</li>
+  <li>Blazing fast search and inject results in component using Hooks</li>
 </ul>
 
-<p><a href="https://jojonicho.wtf">Website</a> - <a href="https://github.com/jojonicho/jojonicho">Github</a><br />
-<strong>Portfolio and blog web application built with Gatsby</strong><br /></p>
+<h3 id="portfolio-blog">Portfolio, Blog</h3>
+
+<p><code class="highlighter-rouge">May 2020</code>
+<a href="https://jojonicho.wtf">Website</a> - <a href="https://github.com/jojonicho/jojonicho">Github</a><br />
+<strong>Portfolio and Blog Web App with Gatsby</strong><br /></p>
 
 <ul>
-  <li>State management using react hooks and styled using Emotion.js<br /></li>
+  <li>State management using react hooks and styled using Emotion.js</li>
   <li>Implemented backend using GraphQL and Markdown.</li>
   <li>Impacted over 1000 connections on LinkedIn through written <a href="https://www.linkedin.com/posts/joni_the-gatsby-project-structure-activity-6667343046142783488-mKfn">article</a> about Gatsby.</li>
 </ul>
 
-<h3 id="event-registration-score-and-classement-displayer">Event Registration, Score and Classement Displayer</h3>
+<h3 id="event-registration-update">Event Registration Update</h3>
 
-<p><a href="https://perak.cs.ui.ac.id/">Website</a> - <a href="https://github.com/jojonicho/perak-frontend">Github</a> - Associated with Pesta Rakyat Komputer.<br />
-<strong>Form submission and score displaying web application built with React, Redux and Hooks</strong><br /></p>
+<p><code class="highlighter-rouge">March 2020</code>
+<a href="https://perak.cs.ui.ac.id/">Website</a> - <a href="https://github.com/jojonicho/perak-frontend">Github</a> - Associated with Pesta Rakyat Komputer.<br />
+<strong>Form Submission and Score Classement Display Web App with React, Redux and Hooks</strong><br /></p>
 
 <ul>
-  <li>Backend admin dashboard using firebase and styled using styled-components.<br /></li>
+  <li>Backend admin dashboard using firebase and styled using styled-components.</li>
   <li>Improved traffic by implementing beautiful and responsive layout for displaying classement of events.</li>
   <li>Improved UX by giving user feedback through 404 page and loading progression bar.</li>
 </ul>
 
 <h3 id="food-scheduler">Food Scheduler</h3>
 
-<p><a href="https://drive.google.com/open?id=1Y1YdTRXNRuR8WJgD4Ok2WV8n1y8IN-zC">APK</a> - <a href="https://github.com/jojonicho/foodget">Github</a><br />
+<p><code class="highlighter-rouge">February 2020</code>
+<a href="https://drive.google.com/open?id=1Y1YdTRXNRuR8WJgD4Ok2WV8n1y8IN-zC">APK</a> - <a href="https://github.com/jojonicho/foodget">Github</a><br />
 <strong>Food consumption reporting mobile UI application built with Flutter and Firebase</strong><br /></p>
 
 <ul>
@@ -83,7 +89,8 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 
 <h3 id="basketball-courts-maps">Basketball Courts Maps</h3>
 
-<p><a href="https://github.com/jojonicho/pickup">Github</a><br />
+<p><code class="highlighter-rouge">July 2019</code>
+<a href="https://github.com/jojonicho/pickup">Github</a><br />
 <strong>Basketball courts search mobile application built with Flutter and Google Places, Maps API</strong><br /></p>
 
 <ul>
@@ -118,7 +125,7 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 <strong>Data Mining, JOINTS 2020</strong>. <em>Universitas Gadjah Mada</em>. Team name: ZephyrOne <a href="https://www.kaggle.com/c/datmin-joints-2020/leaderboard">preliminaries</a>.</p>
 
 <ul>
-  <li>Learned how to write a journal/paper through mentorship by one Traveloka’s Data Science Intern.</li>
+  <li>Learned how to write a journal/paper through mentorship by one of Traveloka’s Data Science Intern.</li>
 </ul>
 
 <h2 id="skills">Skills</h2>
@@ -128,7 +135,8 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 <p>React - Hooks - Redux<br />
 Gatsby<br />
 Node.js - Express<br />
-GraphQL<br /></p>
+GraphQL<br />
+Typescript</p>
 
 <h3 id="python">Python</h3>
 

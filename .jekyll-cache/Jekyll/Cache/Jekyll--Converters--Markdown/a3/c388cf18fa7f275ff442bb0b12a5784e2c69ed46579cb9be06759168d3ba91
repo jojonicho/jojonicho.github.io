@@ -1,4 +1,4 @@
-I"<h1 id="jonathan-nicholas">Jonathan Nicholas</h1>
+I"�<h1 id="jonathan-nicholas">Jonathan Nicholas</h1>
 
 <p>Computer Science Undergraduate, Universitas Indonesia 2023</p>
 
@@ -44,12 +44,13 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 <h3 id="tierlist-maker">Tierlist Maker</h3>
 
 <p><code class="highlighter-rouge">May 2020</code>
-<a href="https://tierlist.jojonicho.wtf">Website</a> - <a href="https://github.com/jojonicho/tierlist">Github</a><br />
-<strong>Tierlist GIF Search Engine with Typescript React</strong><br /></p>
+<a href="https://giftr.jojonicho.wtf">Website</a> - <a href="https://github.com/jojonicho/giftr">Github</a><br />
+<strong>Giftr! Tierlist Maker and GIF Search Engine with Typescript React</strong><br /></p>
 
 <ul>
-  <li>Drag and drop using react-beautiful-dnd</li>
-  <li>Integrated typescript for seamless autocomplete on API and Theme methods</li>
+  <li>Drag and drop using react-beautiful-dnd and styled with emotion@next</li>
+  <li>Integrated Typescript for seamless autocomplete on API and Theme methods</li>
+  <li>Blazing fast search and inject results in component using Hooks</li>
 </ul>
 
 <h3 id="portfolio-blog">Portfolio, Blog</h3>
@@ -124,7 +125,7 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 <strong>Data Mining, JOINTS 2020</strong>. <em>Universitas Gadjah Mada</em>. Team name: ZephyrOne <a href="https://www.kaggle.com/c/datmin-joints-2020/leaderboard">preliminaries</a>.</p>
 
 <ul>
-  <li>Learned how to write a journal/paper through mentorship by one Traveloka’s Data Science Intern.</li>
+  <li>Learned how to write a journal/paper through mentorship by one of Traveloka’s Data Science Intern.</li>
 </ul>
 
 <h2 id="skills">Skills</h2>
@@ -134,7 +135,8 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 <p>React - Hooks - Redux<br />
 Gatsby<br />
 Node.js - Express<br />
-GraphQL<br /></p>
+GraphQL<br />
+Typescript</p>
 
 <h3 id="python">Python</h3>
 
