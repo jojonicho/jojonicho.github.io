@@ -49,12 +49,12 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 ### Tierlist Maker
 
 `May 2020`
-[Website](https://tierlist.jojonicho.wtf) - [Github](https://github.com/jojonicho/tierlist)<br>
-**Tierlist GIF Search Engine with Typescript React**<br>
+[Website](https://giftr.jojonicho.wtf) - [Github](https://github.com/jojonicho/giftr)<br>
+**Giftr! Tierlist Maker and GIF Search Engine with Typescript React**<br>
 
-- Drag and drop using react-beautiful-dnd
-- Styled with emotion@next and state management using Hooks
+- Drag and drop using react-beautiful-dnd and styled with emotion@next
 - Integrated Typescript for seamless autocomplete on API and Theme methods
+- Blazing fast search and inject results in component using Hooks
 
 ### Portfolio, Blog
 
