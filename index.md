@@ -49,6 +49,15 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 ### Tierlist Maker
 
 `May 2020`
+[Github](https://github.com/jojonicho/giftr)<br>
+**Node.js GraphQL Backend with JWT Redis TypeORM and Postgres**<br>
+
+- User register validation, login and authentication using refresh and authentication Json Web Token
+- User confirmation with email using Nodemailer stored in redis
+
+### Tierlist Maker
+
+`May 2020`
 [Website](https://giftr.jojonicho.wtf) - [Github](https://github.com/jojonicho/giftr)<br>
 **Giftr! Tierlist Maker and GIF Search Engine with Typescript React**<br>
 
