@@ -46,7 +46,7 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 
 ## Technical Projects
 
-### Tierlist Maker
+### Auth JWT Backend
 
 `May 2020`
 [Github](https://github.com/jojonicho/giftr)<br>
