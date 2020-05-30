@@ -22,7 +22,7 @@ Jakarta Barat, Indonesia<br/>
 `2019 - present`
 **B.S., Computer Science**, _Universitas Indonesia_, Depok, West Java, Indonesia.<br>
 GPA: 4.00/4.00<br>
-Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathematics.
+Relevant Coursework: Web Design and Programming, Foundations of Programming, Discrete Mathematics.
 
 `2017 - 2019`
 **Associates, Natural Science**, _SMA Kolese Kanisius_, Menteng Raya 64, Central Jakarta, Indonesia.
@@ -52,8 +52,8 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 [Github](https://github.com/jojonicho/giftr)<br>
 **Node.js GraphQL Backend with JWT Redis TypeORM and Postgres**<br>
 
-- User register validation, login and authentication using refresh and authentication Json Web Token
-- User confirmation with email using Nodemailer stored in redis
+- User register validation, login and authentication using refresh and authentication Json Web Token.
+- User confirmation with email using Nodemailer stored in redis.
 
 ### Tierlist Maker
 
@@ -61,9 +61,9 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 [Website](https://giftr.jojonicho.wtf) - [Github](https://github.com/jojonicho/giftr)<br>
 **Giftr! Tierlist Maker and GIF Search Engine with Typescript React**<br>
 
-- Drag and drop using react-beautiful-dnd and styled with emotion@next
-- Integrated Typescript for seamless autocomplete on API and Theme methods
-- Blazing fast search and inject results in component using Hooks
+- Drag and drop using react-beautiful-dnd and styled with emotion@next.
+- Integrated Typescript for seamless autocomplete on API and Theme methods.
+- Blazing fast search and inject results in component using Hooks.
 
 ### Portfolio, Blog
 
@@ -74,6 +74,18 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 - State management using react hooks and styled using Emotion.js
 - Implemented backend using GraphQL and Markdown.
 - Impacted over 1000 connections on LinkedIn through written [article](https://www.linkedin.com/posts/joni_the-gatsby-project-structure-activity-6667343046142783488-mKfn) about Gatsby.
+
+### Online Shop
+
+`March 2020`
+[Website](http://tk1-ppw.herokuapp.com/) - [Gitlab](https://gitlab.com/jojonicho/tekasatu) - Associated Web Design and Programming Coursework.<br>
+**Fullstack End-to-end Online Shop with Django and Ajax**<br>
+
+- Test Driven Development using Red - Green - Refactor approach with Selenium.
+- Automated testing and deployment to Heroku using gitlab CI/CD.
+- Implemented item search and coupon discount, added through custom admin dashboard.
+- Implemented email and google authentication using Django Allauth.
+- Styled with pure css and event handlers with vanilla javascript and ajax.
 
 ### Soccer and Games League
 

@@ -1,4 +1,4 @@
-I"ü<h1 id="jonathan-nicholas">Jonathan Nicholas</h1>
+I"M<h1 id="jonathan-nicholas">Jonathan Nicholas</h1>
 
 <p>Computer Science Undergraduate, Universitas Indonesia 2023</p>
 
@@ -41,7 +41,7 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 
 <h2 id="technical-projects">Technical Projects</h2>
 
-<h3 id="tierlist-maker">Tierlist Maker</h3>
+<h3 id="auth-jwt-backend">Auth JWT Backend</h3>
 
 <p><code class="highlighter-rouge">May 2020</code>
 <a href="https://github.com/jojonicho/giftr">Github</a><br />
@@ -52,7 +52,7 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
   <li>User confirmation with email using Nodemailer stored in redis</li>
 </ul>
 
-<h3 id="tierlist-maker-1">Tierlist Maker</h3>
+<h3 id="tierlist-maker">Tierlist Maker</h3>
 
 <p><code class="highlighter-rouge">May 2020</code>
 <a href="https://giftr.jojonicho.wtf">Website</a> - <a href="https://github.com/jojonicho/giftr">Github</a><br />
@@ -74,6 +74,18 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
   <li>State management using react hooks and styled using Emotion.js</li>
   <li>Implemented backend using GraphQL and Markdown.</li>
   <li>Impacted over 1000 connections on LinkedIn through written <a href="https://www.linkedin.com/posts/joni_the-gatsby-project-structure-activity-6667343046142783488-mKfn">article</a> about Gatsby.</li>
+</ul>
+
+<h3 id="online-shop">Online Shop</h3>
+
+<p><code class="highlighter-rouge">March 2020</code>
+<a href="http://tk1-ppw.herokuapp.com/">Website</a> - <a href="https://gitlab.com/jojonicho/tekasatu">Gitlab</a> - Associated Web Design and Programming Coursework.<br />
+<strong>Fullstack End-to-end Online Shop with Django and Ajax</strong><br /></p>
+
+<ul>
+  <li>Test Driven Development using Red - Green - Refactor approach with Selenium.</li>
+  <li>Implemented design from user persona and color psychology</li>
+  <li>Implemented email and google authentication using Django Allauth.</li>
 </ul>
 
 <h3 id="soccer-and-games-league">Soccer and Games League</h3>
