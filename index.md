@@ -126,26 +126,19 @@ Relevant Coursework: Web Design and Programming, Foundations of Programming, Dis
 
 ### Third Winner
 
-`February 2020`
-**Datavidia, Arkavidia 2020**. _Institut Teknologi Bandung_. Team name: Two Epochs. [preliminaries](https://www.kaggle.com/c/datavidia2019v2/leaderboard) [finals](https://www.kaggle.com/c/finaldatavidia2019/leaderboard).
-
-- Third place accuracy in leaderboard
-- Presentation and Q/A session in front of tiket.com representative about Facebook's Prophet Time Series Model
-
-### Third Winner
-
 `June 2020`
 **Data Mining, JOINTS 2020**. _Universitas Gadjah Mada_. Team name: ZephyrOne. [finals](https://www.kaggle.com/c/final-dm-2020/leaderboard).
 
 - First place accuracy in leaderboard
 - Learned how to handle Multiclass Classification
 
-### Finalist
+### Third Winner
 
-`May 2020`
-**Data Mining, JOINTS 2020**. _Universitas Gadjah Mada_. Team name: ZephyrOne [preliminaries](https://www.kaggle.com/c/datmin-joints-2020/leaderboard).
+`February 2020`
+**Datavidia, Arkavidia 2020**. _Institut Teknologi Bandung_. Team name: Two Epochs. [preliminaries](https://www.kaggle.com/c/datavidia2019v2/leaderboard) [finals](https://www.kaggle.com/c/finaldatavidia2019/leaderboard).
 
-- Learned how to write a journal/paper through mentorship by one of Traveloka's Data Science Intern.
+- Third place accuracy in leaderboard
+- Presentation and Q/A session in front of tiket.com representative about Facebook's Prophet Time Series Model
 
 ## Skills
 
