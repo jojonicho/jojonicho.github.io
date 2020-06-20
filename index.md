@@ -49,7 +49,7 @@ Relevant Coursework: Web Design and Programming, Foundations of Programming, Dis
 ### Auth JWT Backend
 
 `May 2020`
-[Github](https://github.com/jojonicho/giftr)<br>
+[Github](https://github.com/jojonicho/node-graphql-jwt-auth)<br>
 **Node.js GraphQL Backend with JWT Redis TypeORM and Postgres**<br>
 
 - User register validation, login and authentication using refresh and authentication Json Web Token.
