@@ -46,14 +46,18 @@ Relevant Coursework: Web Design and Programming, Foundations of Programming, Dis
 
 ## Technical Projects
 
-### Auth JWT Backend
+### Discord Clone
 
-`May 2020`
-[Github](https://github.com/jojonicho/node-graphql-jwt-auth)<br>
-**Node.js GraphQL Backend with JWT Redis TypeORM and Postgres**<br>
+`June 2020`
+[Frontend](https://github.com/jojonicho/distro) [Backend](https://github.com/jojonicho/node-graphql-jwt-auth)<br>
+**Discord Clone with NextJS, Typescript, and Apollo GraphQL**<br>
 
+- Chat implementation using Apollo GraphQL Subscriptions.
+- Typescript and styled with Emotion.js.
+- Apollo Codegen for type-safety mutation/query/subcription hooks.
 - User register validation, login and authentication using refresh and authentication Json Web Token.
-- User confirmation with email using Nodemailer stored in redis.
+- User confirmation with email using Nodemailer stored in Redis.
+- Backend using Node with TypeORM and TypeGraphQL.
 
 ### Tierlist Maker
 

@@ -1,4 +1,4 @@
-I"M<h1 id="jonathan-nicholas">Jonathan Nicholas</h1>
+I"| <h1 id="jonathan-nicholas">Jonathan Nicholas</h1>
 
 <p>Computer Science Undergraduate, Universitas Indonesia 2023</p>
 
@@ -17,7 +17,7 @@
 <p><code class="highlighter-rouge">2019 - present</code>
 <strong>B.S., Computer Science</strong>, <em>Universitas Indonesia</em>, Depok, West Java, Indonesia.<br />
 GPA: 4.00/4.00<br />
-Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathematics.</p>
+Relevant Coursework: Web Design and Programming, Foundations of Programming, Discrete Mathematics.</p>
 
 <p><code class="highlighter-rouge">2017 - 2019</code>
 <strong>Associates, Natural Science</strong>, <em>SMA Kolese Kanisius</em>, Menteng Raya 64, Central Jakarta, Indonesia.</p>
@@ -41,15 +41,19 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 
 <h2 id="technical-projects">Technical Projects</h2>
 
-<h3 id="auth-jwt-backend">Auth JWT Backend</h3>
+<h3 id="discord-clone">Discord Clone</h3>
 
-<p><code class="highlighter-rouge">May 2020</code>
-<a href="https://github.com/jojonicho/giftr">Github</a><br />
-<strong>Node.js GraphQL Backend with JWT Redis TypeORM and Postgres</strong><br /></p>
+<p><code class="highlighter-rouge">June 2020</code>
+<a href="https://github.com/jojonicho/distro">Frontend</a> <a href="https://github.com/jojonicho/node-graphql-jwt-auth">Backend</a><br />
+<strong>Discord Clone with NextJS, Typescript, and Apollo GraphQL</strong><br /></p>
 
 <ul>
-  <li>User register validation, login and authentication using refresh and authentication Json Web Token</li>
-  <li>User confirmation with email using Nodemailer stored in redis</li>
+  <li>Chat implementation using Apollo GraphQL Subscriptions.</li>
+  <li>Typescript and styled with Emotion.js.</li>
+  <li>Apollo Codegen for type-safety mutation/query/subcription hooks.</li>
+  <li>User register validation, login and authentication using refresh and authentication Json Web Token.</li>
+  <li>User confirmation with email using Nodemailer stored in Redis.</li>
+  <li>Backend using Node with TypeORM and TypeGraphQL.</li>
 </ul>
 
 <h3 id="tierlist-maker">Tierlist Maker</h3>
@@ -59,9 +63,9 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 <strong>Giftr! Tierlist Maker and GIF Search Engine with Typescript React</strong><br /></p>
 
 <ul>
-  <li>Drag and drop using react-beautiful-dnd and styled with emotion@next</li>
-  <li>Integrated Typescript for seamless autocomplete on API and Theme methods</li>
-  <li>Blazing fast search and inject results in component using Hooks</li>
+  <li>Drag and drop using react-beautiful-dnd and styled with emotion@next.</li>
+  <li>Integrated Typescript for seamless autocomplete on API and Theme methods.</li>
+  <li>Blazing fast search and inject results in component using Hooks.</li>
 </ul>
 
 <h3 id="portfolio-blog">Portfolio, Blog</h3>
@@ -73,7 +77,7 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 <ul>
   <li>State management using react hooks and styled using Emotion.js</li>
   <li>Implemented backend using GraphQL and Markdown.</li>
-  <li>Impacted over 1000 connections on LinkedIn through written <a href="https://www.linkedin.com/posts/joni_the-gatsby-project-structure-activity-6667343046142783488-mKfn">article</a> about Gatsby.</li>
+  <li>Impacted 1500+ connections on LinkedIn through written <a href="https://www.linkedin.com/posts/joni_the-gatsby-project-structure-activity-6667343046142783488-mKfn">article</a> about Gatsby.</li>
 </ul>
 
 <h3 id="online-shop">Online Shop</h3>
@@ -84,8 +88,10 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 
 <ul>
   <li>Test Driven Development using Red - Green - Refactor approach with Selenium.</li>
-  <li>Implemented design from user persona and color psychology</li>
+  <li>Automated testing and deployment to Heroku using gitlab CI/CD.</li>
+  <li>Implemented item search and coupon discount, added through custom admin dashboard.</li>
   <li>Implemented email and google authentication using Django Allauth.</li>
+  <li>Styled with pure css and event handlers with vanilla javascript and ajax.</li>
 </ul>
 
 <h3 id="soccer-and-games-league">Soccer and Games League</h3>
@@ -135,20 +141,22 @@ Relevant Coursework: Web Programming, Foundations of Programming, Discrete Mathe
 
 <h3 id="third-winner">Third Winner</h3>
 
+<p><code class="highlighter-rouge">June 2020</code>
+<strong>Data Mining, JOINTS 2020</strong>. <em>Universitas Gadjah Mada</em>. Team name: ZephyrOne. <a href="https://www.kaggle.com/c/final-dm-2020/leaderboard">finals</a>.</p>
+
+<ul>
+  <li>First place accuracy in leaderboard</li>
+  <li>Learned how to handle Multiclass Classification</li>
+</ul>
+
+<h3 id="third-winner-1">Third Winner</h3>
+
 <p><code class="highlighter-rouge">February 2020</code>
 <strong>Datavidia, Arkavidia 2020</strong>. <em>Institut Teknologi Bandung</em>. Team name: Two Epochs. <a href="https://www.kaggle.com/c/datavidia2019v2/leaderboard">preliminaries</a> <a href="https://www.kaggle.com/c/finaldatavidia2019/leaderboard">finals</a>.</p>
 
 <ul>
+  <li>Third place accuracy in leaderboard</li>
   <li>Presentation and Q/A session in front of tiket.com representative about Facebook’s Prophet Time Series Model</li>
-</ul>
-
-<h3 id="finalist">Finalist</h3>
-
-<p><code class="highlighter-rouge">May 2020</code>
-<strong>Data Mining, JOINTS 2020</strong>. <em>Universitas Gadjah Mada</em>. Team name: ZephyrOne <a href="https://www.kaggle.com/c/datmin-joints-2020/leaderboard">preliminaries</a>.</p>
-
-<ul>
-  <li>Learned how to write a journal/paper through mentorship by one of Traveloka’s Data Science Intern.</li>
 </ul>
 
 <h2 id="skills">Skills</h2>
