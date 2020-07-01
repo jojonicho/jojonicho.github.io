@@ -169,7 +169,7 @@ Firebase - BloC
 
 ### C++
 
-Data Structures and Algorithms [leetcode](https://leetcode.com/jojonicho181/)
+Data Structures and Algorithms [leetcode](https://leetcode.com/jojonicho/)
 
 ### Git
 
