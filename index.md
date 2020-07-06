@@ -30,16 +30,16 @@ Relevant Coursework: Web Design and Programming, Foundations of Programming, Dis
 ## Experience
 
 `July 2020 - present`
-**Software Engineer Intern**, _Mekari_,<br>Jakarta, Indonesia.
+**Software Engineer Intern**, _Mekari_<br>Jakarta, Indonesia.
 
 `February 2020 - present`
-**Senior Data Science Member**, _Ristek Fasilkom UI_,<br>Depok, West Java.
+**Senior Data Science Member**, _Ristek Fasilkom UI_<br>Depok, West Java.
 
 `February 2020 - present`
-**Backend Developer**, _I.T. Dev, BEM Fasilkom UI_,<br>Depok, West Java.
+**Backend Developer**, _I.T. Dev, BEM Fasilkom UI_<br>Depok, West Java.
 
 `December 2019 - present`
-**Frontend Developer**, _Pesta Rakyat Komputer_,<br>Depok, West Java.
+**Frontend Developer**, _Pesta Rakyat Komputer_<br>Depok, West Java.
 
 ## Technical Projects
 
@@ -74,7 +74,7 @@ Relevant Coursework: Web Design and Programming, Foundations of Programming, Dis
 
 - State management using react hooks and styled using Emotion.js
 - Implemented backend using GraphQL and Markdown.
-- Impacted 1500+ connections on LinkedIn through written [article](https://www.linkedin.com/posts/joni_the-gatsby-project-structure-activity-6667343046142783488-mKfn) about Gatsby.
+- Impacted 2000+ connections on LinkedIn through written [article](https://www.linkedin.com/posts/joni_the-gatsby-project-structure-activity-6667343046142783488-mKfn) about Gatsby.
 
 ### Online Shop
 
