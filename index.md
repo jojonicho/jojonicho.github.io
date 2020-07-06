@@ -29,20 +29,17 @@ Relevant Coursework: Web Design and Programming, Foundations of Programming, Dis
 
 ## Experience
 
+`July 2020 - present`
+**Software Engineer Intern**, _Mekari_,<br>Jakarta, Indonesia.
+
 `February 2020 - present`
 **Senior Data Science Member**, _Ristek Fasilkom UI_,<br>Depok, West Java.
-
-<!-- `Python` `Machine Learning` `Data Mining` `Pandas` `CatBoost` `Seaborn` -->
 
 `February 2020 - present`
 **Backend Developer**, _I.T. Dev, BEM Fasilkom UI_,<br>Depok, West Java.
 
-<!-- `Python` `Django` -->
-
 `December 2019 - present`
 **Frontend Developer**, _Pesta Rakyat Komputer_,<br>Depok, West Java.
-
-<!-- `JavaScript` `React` `Styled Components` `Firebase` -->
 
 ## Technical Projects
 
@@ -72,7 +69,7 @@ Relevant Coursework: Web Design and Programming, Foundations of Programming, Dis
 ### Portfolio, Blog
 
 `May 2020`
-[Website](https://jojonicho.wtf) - [Github](https://github.com/jojonicho/jojonicho)<br>
+[Website](https://jojonicho.wtf) - [Github](https://github.com/jojonicho/portfolio)<br>
 **Portfolio and Blog Web App with Gatsby**<br>
 
 - State management using react hooks and styled using Emotion.js
