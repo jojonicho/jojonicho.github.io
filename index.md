@@ -22,10 +22,6 @@ Jakarta Barat, Indonesia<br/>
 `2019 - present`
 **B.S., Computer Science**, _Universitas Indonesia_, Depok, West Java, Indonesia.<br>
 GPA: 4.00/4.00<br>
-Relevant Coursework: Web Design and Programming, Foundations of Programming, Discrete Mathematics.
-
-`2017 - 2019`
-**Associates, Natural Science**, _SMA Kolese Kanisius_, Menteng Raya 64, Central Jakarta, Indonesia.
 
 ## Experience
 
@@ -167,14 +163,6 @@ Firebase - BloC
 ### C++
 
 Data Structures and Algorithms [leetcode](https://leetcode.com/jojonicho/)
-
-### Git
-
-Gitlab CI/CD<br>
-
-### Java
-
-OOP
 
 ## Languages
 
