@@ -12,8 +12,8 @@ Jakarta Barat, Indonesia<br/>
 <a href="jojonicho181@gmail.com">jojonicho181@gmail.com</a> - +62 812 9100 0903
 
 <div id="webaddress">
-  <a href="https://jojonicho.wtf"><i class="fas fa-home"></i> www.jojonicho.wtf</a> -
-  <a href="https://github.com/jojonicho"><i class="fab fa-github"></i> github.com/jojonicho</a> -
+  <a href="https://jojonicho.wtf"><i class="fas fa-home"></i> www.jojonicho.wtf</a>
+  <a href="https://github.com/jojonicho"><i class="fab fa-github"></i> github.com/jojonicho</a>
   <a href="https://linkedin.com/in/joni"><i class="fab fa-linkedin"></i> linkedin.com/in/joni</a>
 </div>
 
@@ -21,7 +21,7 @@ Jakarta Barat, Indonesia<br/>
 
 `2019 - present`
 **B.S., Computer Science**, _Universitas Indonesia_, Depok, West Java, Indonesia.<br>
-GPA: 4.00/4.00<br>
+GPA: 3.92/4.00<br>
 
 ## Experience
 
@@ -41,16 +41,16 @@ GPA: 4.00/4.00<br>
 
 ### Discord Clone
 
-`June 2020`
-[Frontend](https://github.com/jojonicho/distro) [Backend](https://github.com/jojonicho/node-graphql-jwt-auth)<br>
+`August 2020`
+[Website](https://distro.vercel.app) - Github [Frontend](https://github.com/jojonicho/distro) [Backend](https://github.com/jojonicho/distro-backend)<br>
 **Discord Clone with NextJS, Typescript, and Apollo GraphQL**<br>
 
-- Chat implementation using Apollo GraphQL Subscriptions.
-- Typescript and styled with Emotion.js.
-- Apollo Codegen for type-safety mutation/query/subcription hooks.
-- User register validation, login and authentication using refresh and authentication Json Web Token.
+- Chat implementation using Apollo GraphQL Subscription Websockets.
+- GraphQL Codegen for type-safety mutation/query/subcription hooks.
+- Type-safety Typescript and styled with EmotionJS.
+- User register validation, login and authentication using JWT access and refresh tokens.
 - User confirmation with email using Nodemailer stored in Redis.
-- Backend using Node with TypeORM and TypeGraphQL.
+- Backend using NodeJS, TypeORM, TypeGraphQL and Postgres.
 
 ### Tierlist Maker
 
@@ -58,7 +58,7 @@ GPA: 4.00/4.00<br>
 [Website](https://giftr.jojonicho.wtf) - [Github](https://github.com/jojonicho/giftr)<br>
 **Giftr! Tierlist Maker and GIF Search Engine with Typescript React**<br>
 
-- Drag and drop using react-beautiful-dnd and styled with emotion@next.
+- Drag and drop using react-beautiful-dnd and styled with EmotionJS.
 - Integrated Typescript for seamless autocomplete on API and Theme methods.
 - Blazing fast search and inject results in component using Hooks.
 
@@ -68,14 +68,14 @@ GPA: 4.00/4.00<br>
 [Website](https://jojonicho.wtf) - [Github](https://github.com/jojonicho/portfolio)<br>
 **Portfolio and Blog Web App with Gatsby**<br>
 
-- State management using react hooks and styled using Emotion.js
+- State management using react hooks and styled using EmotionJS.
 - Implemented backend using GraphQL and Markdown.
 - Impacted 2000+ connections on LinkedIn through written [article](https://www.linkedin.com/posts/joni_the-gatsby-project-structure-activity-6667343046142783488-mKfn) about Gatsby.
 
 ### Online Shop
 
 `March 2020`
-[Website](http://tk1-ppw.herokuapp.com/) - [Gitlab](https://gitlab.com/jojonicho/tekasatu) - Associated Web Design and Programming Coursework.<br>
+[Website](http://tk1-ppw.herokuapp.com/) - [Gitlab](https://gitlab.com/jojonicho/tekasatu) - _Associated Web Design and Programming Coursework_<br>
 **Fullstack End-to-end Online Shop with Django and Ajax**<br>
 
 - Test Driven Development using Red - Green - Refactor approach with Selenium.
@@ -152,6 +152,11 @@ Typescript
 Django<br>
 Machine Learning - Data Manipulation - Data Visualization
 
+### AWS
+
+Lambda<br>
+Amplify
+
 ### Database
 
 PostgreSQL
@@ -162,7 +167,7 @@ Firebase - BloC
 
 ### C++
 
-Data Structures and Algorithms [leetcode](https://leetcode.com/jojonicho/)
+Data Structures and Algorithms
 
 ## Languages
 

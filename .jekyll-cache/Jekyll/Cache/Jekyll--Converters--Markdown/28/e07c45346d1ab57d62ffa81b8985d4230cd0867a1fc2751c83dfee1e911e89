@@ -1,4 +1,4 @@
-I"a <h1 id="jonathan-nicholas">Jonathan Nicholas</h1>
+I"C<h1 id="jonathan-nicholas">Jonathan Nicholas</h1>
 
 <p>Computer Science Undergraduate, Universitas Indonesia 2023</p>
 
@@ -7,8 +7,8 @@
 <p><a href="jojonicho181@gmail.com">jojonicho181@gmail.com</a> - +62 812 9100 0903</p>
 
 <div id="webaddress">
-  <a href="https://jojonicho.wtf"><i class="fas fa-home"></i> www.jojonicho.wtf</a> -
-  <a href="https://github.com/jojonicho"><i class="fab fa-github"></i> github.com/jojonicho</a> -
+  <a href="https://jojonicho.wtf"><i class="fas fa-home"></i> www.jojonicho.wtf</a>
+  <a href="https://github.com/jojonicho"><i class="fab fa-github"></i> github.com/jojonicho</a>
   <a href="https://linkedin.com/in/joni"><i class="fab fa-linkedin"></i> linkedin.com/in/joni</a>
 </div>
 
@@ -16,11 +16,7 @@
 
 <p><code class="highlighter-rouge">2019 - present</code>
 <strong>B.S., Computer Science</strong>, <em>Universitas Indonesia</em>, Depok, West Java, Indonesia.<br />
-GPA: 4.00/4.00<br />
-Relevant Coursework: Web Design and Programming, Foundations of Programming, Discrete Mathematics.</p>
-
-<p><code class="highlighter-rouge">2017 - 2019</code>
-<strong>Associates, Natural Science</strong>, <em>SMA Kolese Kanisius</em>, Menteng Raya 64, Central Jakarta, Indonesia.</p>
+GPA: 3.92/4.00<br /></p>
 
 <h2 id="experience">Experience</h2>
 
@@ -40,17 +36,17 @@ Relevant Coursework: Web Design and Programming, Foundations of Programming, Dis
 
 <h3 id="discord-clone">Discord Clone</h3>
 
-<p><code class="highlighter-rouge">June 2020</code>
-<a href="https://github.com/jojonicho/distro">Frontend</a> <a href="https://github.com/jojonicho/node-graphql-jwt-auth">Backend</a><br />
+<p><code class="highlighter-rouge">August 2020</code>
+<a href="https://distro.vercel.app">Website</a> - Github <a href="https://github.com/jojonicho/distro">Frontend</a> <a href="https://github.com/jojonicho/distro-backend">Backend</a><br />
 <strong>Discord Clone with NextJS, Typescript, and Apollo GraphQL</strong><br /></p>
 
 <ul>
-  <li>Chat implementation using Apollo GraphQL Subscriptions.</li>
-  <li>Typescript and styled with Emotion.js.</li>
-  <li>Apollo Codegen for type-safety mutation/query/subcription hooks.</li>
+  <li>Chat implementation using Apollo GraphQL Subscription Websockets.</li>
+  <li>GraphQL Codegen for type-safety mutation/query/subcription hooks.</li>
+  <li>Type-safety Typescript and styled with EmotionJS.</li>
   <li>User register validation, login and authentication using refresh and authentication Json Web Token.</li>
   <li>User confirmation with email using Nodemailer stored in Redis.</li>
-  <li>Backend using Node with TypeORM and TypeGraphQL.</li>
+  <li>Backend using NodeJS, TypeORM, TypeGraphQL and Postgres.</li>
 </ul>
 
 <h3 id="tierlist-maker">Tierlist Maker</h3>
@@ -60,7 +56,7 @@ Relevant Coursework: Web Design and Programming, Foundations of Programming, Dis
 <strong>Giftr! Tierlist Maker and GIF Search Engine with Typescript React</strong><br /></p>
 
 <ul>
-  <li>Drag and drop using react-beautiful-dnd and styled with emotion@next.</li>
+  <li>Drag and drop using react-beautiful-dnd and styled with EmotionJS.</li>
   <li>Integrated Typescript for seamless autocomplete on API and Theme methods.</li>
   <li>Blazing fast search and inject results in component using Hooks.</li>
 </ul>
@@ -74,13 +70,13 @@ Relevant Coursework: Web Design and Programming, Foundations of Programming, Dis
 <ul>
   <li>State management using react hooks and styled using Emotion.js</li>
   <li>Implemented backend using GraphQL and Markdown.</li>
-  <li>Impacted 2-00+ connections on LinkedIn through written <a href="https://www.linkedin.com/posts/joni_the-gatsby-project-structure-activity-6667343046142783488-mKfn">article</a> about Gatsby.</li>
+  <li>Impacted 2000+ connections on LinkedIn through written <a href="https://www.linkedin.com/posts/joni_the-gatsby-project-structure-activity-6667343046142783488-mKfn">article</a> about Gatsby.</li>
 </ul>
 
 <h3 id="online-shop">Online Shop</h3>
 
 <p><code class="highlighter-rouge">March 2020</code>
-<a href="http://tk1-ppw.herokuapp.com/">Website</a> - <a href="https://gitlab.com/jojonicho/tekasatu">Gitlab</a> - Associated Web Design and Programming Coursework.<br />
+<a href="http://tk1-ppw.herokuapp.com/">Website</a> - <a href="https://gitlab.com/jojonicho/tekasatu">Gitlab</a> - <em>Associated Web Design and Programming Coursework</em><br />
 <strong>Fullstack End-to-end Online Shop with Django and Ajax</strong><br /></p>
 
 <ul>
@@ -171,6 +167,11 @@ Typescript</p>
 <p>Django<br />
 Machine Learning - Data Manipulation - Data Visualization</p>
 
+<h3 id="aws">AWS</h3>
+
+<p>Lambda<br />
+Amplify</p>
+
 <h3 id="database">Database</h3>
 
 <p>PostgreSQL</p>
@@ -181,15 +182,7 @@ Machine Learning - Data Manipulation - Data Visualization</p>
 
 <h3 id="c">C++</h3>
 
-<p>Data Structures and Algorithms <a href="https://leetcode.com/jojonicho/">leetcode</a></p>
-
-<h3 id="git">Git</h3>
-
-<p>Gitlab CI/CD<br /></p>
-
-<h3 id="java">Java</h3>
-
-<p>OOP</p>
+<p>Data Structures and Algorithms</p>
 
 <h2 id="languages">Languages</h2>
 
