@@ -1,4 +1,4 @@
-I"I<h1 id="jonathan-nicholas">Jonathan Nicholas</h1>
+I"(<h1 id="jonathan-nicholas">Jonathan Nicholas</h1>
 
 <p>Computer Science Undergraduate, Universitas Indonesia 2023</p>
 
@@ -44,7 +44,7 @@ GPA: 3.92/4.00<br /></p>
   <li>Chat implementation using Apollo GraphQL Subscription Websockets.</li>
   <li>GraphQL Codegen for type-safety mutation/query/subcription hooks.</li>
   <li>Type-safety Typescript and styled with EmotionJS.</li>
-  <li>User register validation, login and authentication using refresh and authentication Json Web Token.</li>
+  <li>User register validation, login and authentication using JWT access and refresh tokens.</li>
   <li>User confirmation with email using Nodemailer stored in Redis.</li>
   <li>Backend using NodeJS, TypeORM, TypeGraphQL and Postgres.</li>
 </ul>
@@ -61,14 +61,14 @@ GPA: 3.92/4.00<br /></p>
   <li>Blazing fast search and inject results in component using Hooks.</li>
 </ul>
 
-<h3 id="portfolio-blog">Portfolio, Blog</h3>
+<h3 id="portfolio-blog">Portfolio Blog</h3>
 
 <p><code class="highlighter-rouge">May 2020</code>
 <a href="https://jojonicho.wtf">Website</a> - <a href="https://github.com/jojonicho/portfolio">Github</a><br />
 <strong>Portfolio and Blog Web App with Gatsby</strong><br /></p>
 
 <ul>
-  <li>State management using react hooks and styled using Emotion.js</li>
+  <li>State management using react hooks and styled using EmotionJS.</li>
   <li>Implemented backend using GraphQL and Markdown.</li>
   <li>Impacted 2000+ connections on LinkedIn through written <a href="https://www.linkedin.com/posts/joni_the-gatsby-project-structure-activity-6667343046142783488-mKfn">article</a> about Gatsby.</li>
 </ul>
@@ -76,7 +76,7 @@ GPA: 3.92/4.00<br /></p>
 <h3 id="online-shop">Online Shop</h3>
 
 <p><code class="highlighter-rouge">March 2020</code>
-<a href="http://tk1-ppw.herokuapp.com/">Website</a> - <a href="https://gitlab.com/jojonicho/tekasatu">Gitlab</a> <strong>Associated Web Design and Programming Coursework</strong><br />
+<a href="http://tk1-ppw.herokuapp.com/">Website</a> - <a href="https://gitlab.com/jojonicho/tekasatu">Gitlab</a> - <em>Associated Web Design and Programming Coursework</em><br />
 <strong>Fullstack End-to-end Online Shop with Django and Ajax</strong><br /></p>
 
 <ul>
@@ -87,10 +87,10 @@ GPA: 3.92/4.00<br /></p>
   <li>Styled with pure css and event handlers with vanilla javascript and ajax.</li>
 </ul>
 
-<h3 id="soccer-and-games-league">Soccer and Games League</h3>
+<h3 id="games-league">Games League</h3>
 
 <p><code class="highlighter-rouge">March 2020</code>
-<a href="https://perak.cs.ui.ac.id/">Website</a> - <a href="https://github.com/jojonicho/perak-frontend">Github</a> - Associated with Pesta Rakyat Komputer.<br />
+<a href="https://perak.cs.ui.ac.id/">Website</a> - <a href="https://github.com/jojonicho/perak-frontend">Github</a> - <em>Associated with Pesta Rakyat Komputer</em><br />
 <strong>Form Submission and Score Classement Display Web App with React, Redux and Hooks</strong><br /></p>
 
 <ul>

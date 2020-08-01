@@ -62,7 +62,7 @@ GPA: 3.92/4.00<br>
 - Integrated Typescript for seamless autocomplete on API and Theme methods.
 - Blazing fast search and inject results in component using Hooks.
 
-### Portfolio, Blog
+### Portfolio Blog
 
 `May 2020`
 [Website](https://jojonicho.wtf) - [Github](https://github.com/jojonicho/portfolio)<br>
@@ -84,10 +84,10 @@ GPA: 3.92/4.00<br>
 - Implemented email and google authentication using Django Allauth.
 - Styled with pure css and event handlers with vanilla javascript and ajax.
 
-### Soccer and Games League
+### Games League
 
 `March 2020`
-[Website](https://perak.cs.ui.ac.id/) - [Github](https://github.com/jojonicho/perak-frontend) - Associated with Pesta Rakyat Komputer.<br>
+[Website](https://perak.cs.ui.ac.id/) - [Github](https://github.com/jojonicho/perak-frontend) - _Associated with Pesta Rakyat Komputer_<br>
 **Form Submission and Score Classement Display Web App with React, Redux and Hooks**<br>
 
 - Backend admin dashboard using firebase and styled using styled-components.
