@@ -1,4 +1,4 @@
-I"6<h1 id="jonathan-nicholas">Jonathan Nicholas</h1>
+I"�<h1 id="jonathan-nicholas">Jonathan Nicholas</h1>
 
 <p>Computer Science Undergraduate, Universitas Indonesia 2023</p>
 
@@ -12,31 +12,36 @@
   <a href="https://linkedin.com/in/joni"><i class="fab fa-linkedin"></i> linkedin.com/in/joni</a>
 </div>
 
-<h2 id="education">Education</h2>
+<h2 id="education">EDUCATION</h2>
 
-<p><code class="highlighter-rouge">2019 - present</code>
-<strong>B.S., Computer Science</strong>, <em>Universitas Indonesia</em>, Depok, West Java, Indonesia.<br />
+<p><code class="highlighter-rouge">[2019 - Present]</code>
+<strong>B.S., Computer Science</strong>, <em>Universitas Indonesia</em>, Depok, West Java, Indonesia<br />
 GPA: 3.92/4.00<br /></p>
 
-<h2 id="experience">Experience</h2>
+<h2 id="experience">EXPERIENCE</h2>
 
-<p><code class="highlighter-rouge">July 2020 - present</code>
-<strong>Software Engineer Intern</strong>, <em>Mekari</em><br />Jakarta, Indonesia.</p>
+<p><code class="highlighter-rouge">[Jul 2020 - Present]</code>
+<strong>Software Engineer Intern</strong>, <em>Mekari</em>, Jakarta, Indonesia</p>
 
-<p><code class="highlighter-rouge">February 2020 - present</code>
-<strong>Senior Data Science Member</strong>, <em>Ristek Fasilkom UI</em><br />Depok, West Java.</p>
+<ul>
+  <li>Developed and automated access management system to multiple services using Selenium and AWS (Lambda, Secrets Manager, S3).</li>
+  <li>Utilized docker to create simulated AWS Lambda layer environment before deployment using aws-cli and serverless cli.</li>
+  <li>Developed REST API from google sheets using AWS Lambda and API Gateway as CRUD endpoints.</li>
+  <li>Implemented manager/supervisor access granting Dashboard and user access request frontend using React, Typescript, and react-hook-form to trigger AWS Lambda function.</li>
+</ul>
 
-<p><code class="highlighter-rouge">February 2020 - present</code>
-<strong>Backend Developer</strong>, <em>I.T. Dev, BEM Fasilkom UI</em><br />Depok, West Java.</p>
+<p><code class="highlighter-rouge">[Feb 2020 - Present]</code>
+<strong>Senior Data Science Member</strong>, <em>Ristek Fasilkom UI</em>, Depok, West Java.</p>
 
-<p><code class="highlighter-rouge">December 2019 - present</code>
-<strong>Frontend Developer</strong>, <em>Pesta Rakyat Komputer</em><br />Depok, West Java.</p>
+<p><code class="highlighter-rouge">[Feb 2020 - Present]</code>
+<strong>Backend Developer</strong>, <em>I.T. Dev, BEM Fasilkom UI</em>, Depok, West Java.</p>
 
-<h2 id="technical-projects">Technical Projects</h2>
+<p><code class="highlighter-rouge">[Dec 2019 - Present]</code>
+<strong>Frontend Developer</strong>, <em>Pesta Rakyat Komputer</em>, Depok, West Java.</p>
 
-<h3 id="discord-clone">Discord Clone</h3>
+<h2 id="projects">PROJECTS</h2>
 
-<p><code class="highlighter-rouge">August 2020</code>
+<p><code class="highlighter-rouge">[Aug 2020]</code>
 <a href="https://distro.vercel.app">Website</a> - Github <a href="https://github.com/jojonicho/distro">Frontend</a> <a href="https://github.com/jojonicho/distro-backend">Backend</a><br />
 <strong>Discord Clone with NextJS, Typescript, and Apollo GraphQL</strong><br /></p>
 
@@ -49,9 +54,7 @@ GPA: 3.92/4.00<br /></p>
   <li>Backend using NodeJS, TypeORM, TypeGraphQL and Postgres.</li>
 </ul>
 
-<h3 id="tierlist-maker">Tierlist Maker</h3>
-
-<p><code class="highlighter-rouge">May 2020</code>
+<p><code class="highlighter-rouge">[May 2020]</code>
 <a href="https://giftr.jojonicho.wtf">Website</a> - <a href="https://github.com/jojonicho/giftr">Github</a><br />
 <strong>Giftr! Tierlist Maker and GIF Search Engine with Typescript React</strong><br /></p>
 
@@ -61,11 +64,9 @@ GPA: 3.92/4.00<br /></p>
   <li>Blazing fast search and inject results in component using Hooks.</li>
 </ul>
 
-<h3 id="portfolio-blog">Portfolio Blog</h3>
-
-<p><code class="highlighter-rouge">May 2020</code>
+<p><code class="highlighter-rouge">[May 2020]</code>
 <a href="https://jojonicho.wtf">Website</a> - <a href="https://github.com/jojonicho/portfolio">Github</a><br />
-<strong>Portfolio and Blog Web App with Gatsby</strong><br /></p>
+<strong>Portfolio and Blog with Gatsby</strong><br /></p>
 
 <ul>
   <li>State management using react hooks and styled using EmotionJS.</li>
@@ -73,11 +74,9 @@ GPA: 3.92/4.00<br /></p>
   <li>Impacted 2000+ connections on LinkedIn through written <a href="https://www.linkedin.com/posts/joni_the-gatsby-project-structure-activity-6667343046142783488-mKfn">article</a> about Gatsby.</li>
 </ul>
 
-<h3 id="online-shop">Online Shop</h3>
-
-<p><code class="highlighter-rouge">March 2020</code>
+<p><code class="highlighter-rouge">[Mar 2020]</code>
 <a href="http://tk1-ppw.herokuapp.com/">Website</a> - <a href="https://gitlab.com/jojonicho/tekasatu">Gitlab</a> - <em>Associated Web Design and Programming Coursework</em><br />
-<strong>Fullstack End-to-end Online Shop with Django and Ajax</strong><br /></p>
+<strong>Fullstack End-to-end Online Shop with Django and Javascript</strong><br /></p>
 
 <ul>
   <li>Test Driven Development using Red - Green - Refactor approach with Selenium.</li>
@@ -87,11 +86,9 @@ GPA: 3.92/4.00<br /></p>
   <li>Styled with pure css and event handlers with vanilla javascript and ajax.</li>
 </ul>
 
-<h3 id="soccer-and-games-league">Soccer and Games League</h3>
-
-<p><code class="highlighter-rouge">March 2020</code>
-<a href="https://perak.cs.ui.ac.id/">Website</a> - <a href="https://github.com/jojonicho/perak-frontend">Github</a> - Associated with Pesta Rakyat Komputer.<br />
-<strong>Form Submission and Score Classement Display Web App with React, Redux and Hooks</strong><br /></p>
+<p><code class="highlighter-rouge">[Mar 2020]</code>
+<a href="https://perak.cs.ui.ac.id/">Website</a> - <a href="https://github.com/jojonicho/perak-frontend">Github</a> - <em>Associated with Pesta Rakyat Komputer</em><br />
+<strong>Form Submission and Score Classement Display with React, Redux and Hooks</strong><br /></p>
 
 <ul>
   <li>Backend admin dashboard using firebase and styled using styled-components.</li>
@@ -99,33 +96,29 @@ GPA: 3.92/4.00<br /></p>
   <li>Improved UX by giving user feedback through 404 page and loading progression bar.</li>
 </ul>
 
-<h3 id="food-scheduler">Food Scheduler</h3>
-
-<p><code class="highlighter-rouge">February 2020</code>
+<p><code class="highlighter-rouge">[Feb 2020]</code>
 <a href="https://drive.google.com/open?id=1Y1YdTRXNRuR8WJgD4Ok2WV8n1y8IN-zC">APK</a> - <a href="https://github.com/jojonicho/foodget">Github</a><br />
-<strong>Food consumption reporting mobile UI application built with Flutter and Firebase</strong><br /></p>
+<strong>Food consumption reporting mobile app with Flutter and Firebase</strong><br /></p>
 
 <ul>
   <li>Authorization using google auth.<br /></li>
 </ul>
 
-<h3 id="basketball-courts-maps">Basketball Courts Maps</h3>
-
-<p><code class="highlighter-rouge">July 2019</code>
+<p><code class="highlighter-rouge">[Jul 2019]</code>
 <a href="https://github.com/jojonicho/pickup">Github</a><br />
-<strong>Basketball courts search mobile application built with Flutter and Google Places, Maps API</strong><br /></p>
+<strong>Basketball courts search mobile app with Flutter, Google Places, Maps API</strong><br /></p>
 
 <ul>
   <li>State management using BloC.<br /></li>
   <li>Impressed Sea Group’s HR during scholarship interview for showing practical perseverance during short amount of learning time.</li>
 </ul>
 
-<h2 id="achievements">Achievements</h2>
+<h2 id="achievements">ACHIEVEMENTS<br /><br /></h2>
 
 <h3 id="scholarship">Scholarship</h3>
 
-<p><code class="highlighter-rouge">October 2019</code>
-<strong>Sea Undergraduate Scholarship 2019</strong>. <em>PT. Garena Indonesia</em>. <a href="https://drive.google.com/file/d/0B_vsb-1I_-gpVFBpNC1ydEJGTEVtSTdvUnFDNjFzYkJtVnlB/view">contract</a>.</p>
+<p><code class="highlighter-rouge">[Oct 2019]</code>
+<strong>Sea Undergraduate Scholarship 2019</strong>. <em>PT. Garena Indonesia</em> <a href="https://drive.google.com/file/d/0B_vsb-1I_-gpVFBpNC1ydEJGTEVtSTdvUnFDNjFzYkJtVnlB/view">contract</a></p>
 
 <ul>
   <li>Hands-on interview experience using english while talking about concerning problems in Indonesia</li>
@@ -134,8 +127,9 @@ GPA: 3.92/4.00<br /></p>
 
 <h3 id="third-winner">Third Winner</h3>
 
-<p><code class="highlighter-rouge">June 2020</code>
-<strong>Data Mining, JOINTS 2020</strong>. <em>Universitas Gadjah Mada</em>. Team name: ZephyrOne. <a href="https://www.kaggle.com/c/final-dm-2020/leaderboard">finals</a>.</p>
+<p><code class="highlighter-rouge">[Jun 2020]</code>
+<strong>Data Mining, JOINTS 2020</strong>. <em>Universitas Gadjah Mada</em><br />
+Team name: ZephyrOne <a href="https://www.kaggle.com/c/final-dm-2020/leaderboard">finals</a>.</p>
 
 <ul>
   <li>First place accuracy in leaderboard</li>
@@ -144,15 +138,15 @@ GPA: 3.92/4.00<br /></p>
 
 <h3 id="third-winner-1">Third Winner</h3>
 
-<p><code class="highlighter-rouge">February 2020</code>
-<strong>Datavidia, Arkavidia 2020</strong>. <em>Institut Teknologi Bandung</em>. Team name: Two Epochs. <a href="https://www.kaggle.com/c/datavidia2019v2/leaderboard">preliminaries</a> <a href="https://www.kaggle.com/c/finaldatavidia2019/leaderboard">finals</a>.</p>
+<p><code class="highlighter-rouge">[Feb 2020]</code>
+<strong>Datavidia, Arkavidia 2020</strong>. <em>Institut Teknologi Bandung</em><br /> Team name: Two Epochs <a href="https://www.kaggle.com/c/datavidia2019v2/leaderboard">preliminaries</a> <a href="https://www.kaggle.com/c/finaldatavidia2019/leaderboard">finals</a>.</p>
 
 <ul>
   <li>Third place accuracy in leaderboard</li>
   <li>Presentation and Q/A session in front of tiket.com representative about Facebook’s Prophet Time Series Model</li>
 </ul>
 
-<h2 id="skills">Skills</h2>
+<h2 id="skills">SKILLS<br /><br /></h2>
 
 <h3 id="javascript">Javascript</h3>
 
@@ -184,7 +178,7 @@ Amplify</p>
 
 <p>Data Structures and Algorithms</p>
 
-<h2 id="languages">Languages</h2>
+<h2 id="languages">LANGUAGES</h2>
 
 <p>English: Fluent<br />
 Indonesia: Native</p>

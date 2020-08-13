@@ -17,31 +17,34 @@ Jakarta Barat, Indonesia<br/>
   <a href="https://linkedin.com/in/joni"><i class="fab fa-linkedin"></i> linkedin.com/in/joni</a>
 </div>
 
-## Education
+## EDUCATION
 
-`2019 - present`
-**B.S., Computer Science**, _Universitas Indonesia_, Depok, West Java, Indonesia.<br>
+`[2019 - Present]`
+**B.S., Computer Science**, _Universitas Indonesia_, Depok, West Java, Indonesia<br>
 GPA: 3.92/4.00<br>
 
-## Experience
+## EXPERIENCE
 
-`July 2020 - present`
-**Software Engineer Intern**, _Mekari_<br>Jakarta, Indonesia.
+`[Jul 2020 - Present]`
+**Software Engineer Intern**, _Mekari_, Jakarta, Indonesia
 
-`February 2020 - present`
-**Senior Data Science Member**, _Ristek Fasilkom UI_<br>Depok, West Java.
+- Developed and automated access management system to multiple services using Selenium and AWS (Lambda, Secrets Manager, S3).
+- Utilized docker to create simulated AWS Lambda layer environment before deployment using aws-cli and serverless cli.
+- Developed REST API from google sheets using AWS Lambda and API Gateway as CRUD endpoints.
+- Implemented manager/supervisor access granting Dashboard and user access request frontend using React, Typescript, and react-hook-form to trigger AWS Lambda function.
 
-`February 2020 - present`
-**Backend Developer**, _I.T. Dev, BEM Fasilkom UI_<br>Depok, West Java.
+`[Feb 2020 - Present]`
+**Senior Data Science Member**, _Ristek Fasilkom UI_, Depok, West Java.
 
-`December 2019 - present`
-**Frontend Developer**, _Pesta Rakyat Komputer_<br>Depok, West Java.
+`[Feb 2020 - Present]`
+**Backend Developer**, _I.T. Dev, BEM Fasilkom UI_, Depok, West Java.
 
-## Technical Projects
+`[Dec 2019 - Present]`
+**Frontend Developer**, _Pesta Rakyat Komputer_, Depok, West Java.
 
-### Discord Clone
+## PROJECTS
 
-`August 2020`
+`[Aug 2020]`
 [Website](https://distro.vercel.app) - Github [Frontend](https://github.com/jojonicho/distro) [Backend](https://github.com/jojonicho/distro-backend)<br>
 **Discord Clone with NextJS, Typescript, and Apollo GraphQL**<br>
 
@@ -52,9 +55,7 @@ GPA: 3.92/4.00<br>
 - User confirmation with email using Nodemailer stored in Redis.
 - Backend using NodeJS, TypeORM, TypeGraphQL and Postgres.
 
-### Tierlist Maker
-
-`May 2020`
+`[May 2020]`
 [Website](https://giftr.jojonicho.wtf) - [Github](https://github.com/jojonicho/giftr)<br>
 **Giftr! Tierlist Maker and GIF Search Engine with Typescript React**<br>
 
@@ -62,21 +63,17 @@ GPA: 3.92/4.00<br>
 - Integrated Typescript for seamless autocomplete on API and Theme methods.
 - Blazing fast search and inject results in component using Hooks.
 
-### Portfolio Blog
-
-`May 2020`
+`[May 2020]`
 [Website](https://jojonicho.wtf) - [Github](https://github.com/jojonicho/portfolio)<br>
-**Portfolio and Blog Web App with Gatsby**<br>
+**Portfolio and Blog with Gatsby**<br>
 
 - State management using react hooks and styled using EmotionJS.
 - Implemented backend using GraphQL and Markdown.
 - Impacted 2000+ connections on LinkedIn through written [article](https://www.linkedin.com/posts/joni_the-gatsby-project-structure-activity-6667343046142783488-mKfn) about Gatsby.
 
-### Online Shop
-
-`March 2020`
+`[Mar 2020]`
 [Website](http://tk1-ppw.herokuapp.com/) - [Gitlab](https://gitlab.com/jojonicho/tekasatu) - _Associated Web Design and Programming Coursework_<br>
-**Fullstack End-to-end Online Shop with Django and Ajax**<br>
+**Fullstack End-to-end Online Shop with Django and Javascript**<br>
 
 - Test Driven Development using Red - Green - Refactor approach with Selenium.
 - Automated testing and deployment to Heroku using gitlab CI/CD.
@@ -84,60 +81,55 @@ GPA: 3.92/4.00<br>
 - Implemented email and google authentication using Django Allauth.
 - Styled with pure css and event handlers with vanilla javascript and ajax.
 
-### Games League
-
-`March 2020`
+`[Mar 2020]`
 [Website](https://perak.cs.ui.ac.id/) - [Github](https://github.com/jojonicho/perak-frontend) - _Associated with Pesta Rakyat Komputer_<br>
-**Form Submission and Score Classement Display Web App with React, Redux and Hooks**<br>
+**Form Submission and Score Classement Display with React, Redux and Hooks**<br>
 
 - Backend admin dashboard using firebase and styled using styled-components.
 - Improved traffic by implementing beautiful and responsive layout for displaying classement of events.
 - Improved UX by giving user feedback through 404 page and loading progression bar.
 
-### Food Scheduler
-
-`February 2020`
+`[Feb 2020]`
 [APK](https://drive.google.com/open?id=1Y1YdTRXNRuR8WJgD4Ok2WV8n1y8IN-zC) - [Github](https://github.com/jojonicho/foodget)<br>
-**Food consumption reporting mobile UI application built with Flutter and Firebase**<br>
+**Food consumption reporting mobile app with Flutter and Firebase**<br>
 
 - Authorization using google auth.<br>
 
-### Basketball Courts Maps
-
-`July 2019`
+`[Jul 2019]`
 [Github](https://github.com/jojonicho/pickup)<br>
-**Basketball courts search mobile application built with Flutter and Google Places, Maps API**<br>
+**Basketball courts search mobile app with Flutter, Google Places, Maps API**<br>
 
 - State management using BloC.<br>
 - Impressed Sea Group's HR during scholarship interview for showing practical perseverance during short amount of learning time.
 
-## Achievements
+## ACHIEVEMENTS<br><br>
 
 ### Scholarship
 
-`October 2019`
-**Sea Undergraduate Scholarship 2019**. _PT. Garena Indonesia_. [contract](https://drive.google.com/file/d/0B_vsb-1I_-gpVFBpNC1ydEJGTEVtSTdvUnFDNjFzYkJtVnlB/view).
+`[Oct 2019]`
+**Sea Undergraduate Scholarship 2019**. _PT. Garena Indonesia_ [contract](https://drive.google.com/file/d/0B_vsb-1I_-gpVFBpNC1ydEJGTEVtSTdvUnFDNjFzYkJtVnlB/view)
 
 - Hands-on interview experience using english while talking about concerning problems in Indonesia
 - Displayed exceptional learning capabilities and motivation throughout 6 months of learning CS.
 
 ### Third Winner
 
-`June 2020`
-**Data Mining, JOINTS 2020**. _Universitas Gadjah Mada_. Team name: ZephyrOne. [finals](https://www.kaggle.com/c/final-dm-2020/leaderboard).
+`[Jun 2020]`
+**Data Mining, JOINTS 2020**. _Universitas Gadjah Mada_<br>
+Team name: ZephyrOne [finals](https://www.kaggle.com/c/final-dm-2020/leaderboard)
 
 - First place accuracy in leaderboard
 - Learned how to handle Multiclass Classification
 
 ### Third Winner
 
-`February 2020`
-**Datavidia, Arkavidia 2020**. _Institut Teknologi Bandung_. Team name: Two Epochs. [preliminaries](https://www.kaggle.com/c/datavidia2019v2/leaderboard) [finals](https://www.kaggle.com/c/finaldatavidia2019/leaderboard).
+`[Feb 2020]`
+**Datavidia, Arkavidia 2020**. _Institut Teknologi Bandung_<br> Team name: Two Epochs [preliminaries](https://www.kaggle.com/c/datavidia2019v2/leaderboard) [finals](https://www.kaggle.com/c/finaldatavidia2019/leaderboard).
 
 - Third place accuracy in leaderboard
 - Presentation and Q/A session in front of tiket.com representative about Facebook's Prophet Time Series Model
 
-## Skills
+## SKILLS<br><br>
 
 ### Javascript
 
@@ -169,7 +161,7 @@ Firebase - BloC
 
 Data Structures and Algorithms
 
-## Languages
+## LANGUAGES
 
 English: Fluent<br>
 Indonesia: Native
