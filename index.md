@@ -12,20 +12,61 @@ Jakarta Barat, Indonesia<br/>
 <a href="jojonicho181@gmail.com">jojonicho181@gmail.com</a> - +62 812 9100 0903
 
 <div id="webaddress">
-  <a href="https://jojonicho.wtf"><i class="fas fa-home"></i> www.jojonicho.wtf</a>
+  <a href="https://jojonicho.github.io"><i class="fas fa-home"></i> jojonicho.github.io</a>
   <a href="https://github.com/jojonicho"><i class="fab fa-github"></i> github.com/jojonicho</a>
   <a href="https://linkedin.com/in/joni"><i class="fab fa-linkedin"></i> linkedin.com/in/joni</a>
 </div>
 
 ## EDUCATION
 
-`[2019 - Present]`
+`[2019 - 2023]`
 **B.S., Computer Science**, _Universitas Indonesia_, Depok, West Java, Indonesia<br>
-GPA: 3.92/4.00<br>
+GPA: 3.88/4.00<br>
 
-## EXPERIENCE
+## RESEARCH EXPERIENCE
 
-`[Jul 2020 - Present]`
+`[Dec 2022 - June 2023]`
+**Undergraduate Researcher**, _University of Indonesia_, Depok, Indonesia
+
+- Developed Geo-Aware load balancing scripts for the Kubernetes environment, allowing websites to have less latency while having less resources through geographically-strategic deployments.
+- Deployed a 3-tier web application to geo-distributed Kubernetes clusters using multi-cluster resources on Google Cloud Platform, allowing easy adoption for existing Kubernetes configurations.
+- Configured Istio service mesh for location-aware load balancing and measured performance compared to the MultiClusterService with MultiClusterIngress approach using Vegeta load test tool.
+
+## PUBLICATIONS
+
+`[June 2023]`
+**Web Application Performance Analysis of Multi-Region Geo-Distributed Kubernetes Clusters**, PI: Muhammad Hilman
+
+- [https://lib.ui.ac.id/detail?id=9999920541209](https://lib.ui.ac.id/detail?id=9999920541209), [github.com/jojonicho/skripsi](https://github.com/jojonicho/skripsi), [pdf](https://github.com/jojonicho/skripsi/blob/master/thesis/JonathanNicholas-publication.pdf)
+
+## WORK EXPERIENCE
+
+[May 2024 – Present]  
+**Software Engineer**, _Jimo_, Paris, France
+
+- Jimo is the only digital adoption platform that offers personalized onboarding and support to increase conversion, increase retention, and reduce support tickets.
+- Improved user retention by 20% through the Snooze and Recurrence feature.
+- Increased MRR by 3K EUR by revamping Changelog/Post with sleek animations using React and Framer.
+
+[June 2023 – May 2024]  
+**Software Engineer**, _Atome_, Jakarta, Indonesia
+
+- Collaborated with brands such as Lazada, TikTok, and Tokopedia to deliver and maintain payment services across Indonesia, Philippines, Thailand, Malaysia, and Singapore.
+- Integrated Lazada PayLater API across multiple countries using Java Spring, Kubernetes, and Rancher.
+
+[Aug 2022 – Dec 2022]  
+**Software Engineer Intern**, _Traveloka_, Jakarta, Indonesia
+
+- Integrated Salesforce and Datadog Monitoring & Alert using Terraform, AWS Lambda, and Java.
+- Increased user engagement by creating routing logic for Traveloka Priority users using Java and Terraform.
+- Automated GitHub release tag creation using GitHub Actions.
+
+[Jan 2022 – Apr 2022]  
+**Software Engineer Intern**, _Ruangguru_, Jakarta, Indonesia
+
+- Prevented millions in losses from outages by integrating rate limiting on hundreds of services using Go, Kubernetes, Istio, and Envoy across Singapore, Indonesia, Malaysia, and the Philippines.
+
+`[Jul 2020 - Sep 2020]`
 **Software Engineer Intern**, _Mekari_, Jakarta, Indonesia
 
 - Developed and automated access management system to multiple services using Selenium and AWS (Lambda, Secrets Manager, S3).
@@ -107,7 +148,7 @@ GPA: 3.92/4.00<br>
 ### Scholarship
 
 `[Oct 2019]`
-**Sea Undergraduate Scholarship 2019**. _PT. Garena Indonesia_ [contract](https://drive.google.com/file/d/0B_vsb-1I_-gpVFBpNC1ydEJGTEVtSTdvUnFDNjFzYkJtVnlB/view)
+**Sea Undergraduate Scholarship 2019**. _Sea Group_
 
 - Hands-on interview experience using english while talking about concerning problems in Indonesia
 - Displayed exceptional learning capabilities and motivation throughout 6 months of learning CS.
