@@ -69,7 +69,7 @@ GPA: 3.88/4.00<br>
 `[Feb 2020 - Present]`
 **Senior Data Science Member**, _Ristek Fasilkom UI_, Depok, West Java.
 
-## HONORS AND AWARDS<br><br>
+## HONORS AND AWARDS
 
 ### Scholarship
 
