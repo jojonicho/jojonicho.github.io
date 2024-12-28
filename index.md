@@ -9,7 +9,7 @@ Computer Science Undergraduate, Universitas Indonesia 2023
 
 Jakarta Barat, Indonesia<br/>
 
-<a href="jojonicho181@gmail.com">jojonicho181@gmail.com</a> - +62 812 9100 0903
+<a href="jojonichoo@gmail.com">jojonichoo@gmail.com</a> - +62 812 9100 0903
 
 <div id="webaddress">
   <a href="https://jojonicho.github.io"><i class="fas fa-home"></i> jojonicho.github.io</a>
@@ -66,22 +66,63 @@ GPA: 3.88/4.00<br>
 
 - Prevented millions in losses from outages by integrating rate limiting on hundreds of services using Go, Kubernetes, Istio, and Envoy across Singapore, Indonesia, Malaysia, and the Philippines.
 
-`[Jul 2020 - Sep 2020]`
-**Software Engineer Intern**, _Mekari_, Jakarta, Indonesia
-
-- Developed and automated access management system to multiple services using Selenium and AWS (Lambda, Secrets Manager, S3).
-- Utilized docker to create simulated AWS Lambda layer environment before deployment using aws-cli and serverless cli.
-- Developed REST API from google sheets using AWS Lambda and API Gateway as CRUD endpoints.
-- Implemented manager/supervisor access granting Dashboard and user access request frontend using React, Typescript, and react-hook-form to trigger AWS Lambda function.
-
 `[Feb 2020 - Present]`
 **Senior Data Science Member**, _Ristek Fasilkom UI_, Depok, West Java.
 
-`[Feb 2020 - Present]`
-**Backend Developer**, _I.T. Dev, BEM Fasilkom UI_, Depok, West Java.
+## HONORS AND AWARDS<br><br>
 
-`[Dec 2019 - Present]`
-**Frontend Developer**, _Pesta Rakyat Komputer_, Depok, West Java.
+### Scholarship
+
+`[2019]`  
+**Sea Undergraduate Scholarship 2019**. _Sea Group_
+
+- Selected as 1 of 4 students from the University of Indonesia to receive full funding for their bachelor’s degree.
+- Sponsored by Sea, Singapore’s leading global consumer internet company with business units including Garena (digital entertainment), Shopee (e-commerce), and SeaMoney (digital financial services).
+- Hands-on interview experience using english while talking about concerning problems in Indonesia
+- Displayed exceptional learning capabilities and motivation throughout 6 months of learning CS.
+
+### Third Winner
+
+`[Feb 2020]`  
+**Data Science Arkavidia**. _Bandung Institute of Technology_
+
+- Ranked 1st out of 360 in preliminaries and 3rd in finals (Kaggle). Team name: Two Epochs.
+- Utilized CatBoost with hypertuned parameters using Bayesian Optimization and VotingClassifier model ensembling.
+- Presented a high-accuracy solution to tiket.com Data Scientists using FbProphet to predict the number of bookings and reduce food wastage.
+
+### Silver Medalist
+
+`[2020]`  
+**Data Mining GEMASTIK**. _Ministry of Education_
+
+- Used CatBoost to identify network outages based on packet loss, volume, latency, and area, enabling electrical companies to address outages proactively.
+- Improved accuracy using VotingClassifier and mitigated bias in uneven datasets with undersampling.
+
+### Finalist
+
+`[2022]`  
+**The ICPC Asia Jakarta Regional Contest**
+
+- Ranked 18th nationally. Team name: Dewa Ngga. [Leaderboard](#).
+
+`[2021]`  
+**The ICPC Asia Jakarta Regional Contest**
+
+- Ranked top 40 internationally. Team name: Juuichigatsu wa kimi no AC. [Leaderboard](#).
+
+### Fourth Winner
+
+`[2020]`  
+**Competitive Programming GEMASTIK**. _Ministry of Education_
+
+### Third Winner
+
+`[Jun 2020]`
+**Data Mining, JOINTS 2020**. _Universitas Gadjah Mada_<br>
+Team name: ZephyrOne [finals](https://www.kaggle.com/c/final-dm-2020/leaderboard)
+
+- First place accuracy in leaderboard
+- Learned how to handle Multiclass Classification
 
 ## PROJECTS
 
@@ -142,33 +183,6 @@ GPA: 3.88/4.00<br>
 
 - State management using BloC.<br>
 - Impressed Sea Group's HR during scholarship interview for showing practical perseverance during short amount of learning time.
-
-## ACHIEVEMENTS<br><br>
-
-### Scholarship
-
-`[Oct 2019]`
-**Sea Undergraduate Scholarship 2019**. _Sea Group_
-
-- Hands-on interview experience using english while talking about concerning problems in Indonesia
-- Displayed exceptional learning capabilities and motivation throughout 6 months of learning CS.
-
-### Third Winner
-
-`[Jun 2020]`
-**Data Mining, JOINTS 2020**. _Universitas Gadjah Mada_<br>
-Team name: ZephyrOne [finals](https://www.kaggle.com/c/final-dm-2020/leaderboard)
-
-- First place accuracy in leaderboard
-- Learned how to handle Multiclass Classification
-
-### Third Winner
-
-`[Feb 2020]`
-**Datavidia, Arkavidia 2020**. _Institut Teknologi Bandung_<br> Team name: Two Epochs [preliminaries](https://www.kaggle.com/c/datavidia2019v2/leaderboard) [finals](https://www.kaggle.com/c/finaldatavidia2019/leaderboard).
-
-- Third place accuracy in leaderboard
-- Presentation and Q/A session in front of tiket.com representative about Facebook's Prophet Time Series Model
 
 ## SKILLS<br><br>
 
