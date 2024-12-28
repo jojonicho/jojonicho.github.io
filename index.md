@@ -115,6 +115,8 @@ GPA: 3.88/4.00<br>
 `[2020]`  
 **Competitive Programming GEMASTIK**. _Ministry of Education_
 
+- Ranked 4th nationally.
+
 ### Third Winner
 
 `[Jun 2020]`
