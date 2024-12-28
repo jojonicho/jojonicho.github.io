@@ -69,7 +69,7 @@ GPA: 3.88/4.00<br>
 `[Feb 2020 - Present]`
 **Senior Data Science Member**, _Ristek Fasilkom UI_, Depok, West Java.
 
-## HONORS AND AWARDS
+## HONORS AND AWARDS<br /><br />
 
 ### Scholarship
 
@@ -104,6 +104,8 @@ GPA: 3.88/4.00<br>
 **The ICPC Asia Jakarta Regional Contest**
 
 - Ranked 18th nationally. Team name: Dewa Ngga. [Leaderboard](#).
+
+### Finalist
 
 `[2021]`  
 **The ICPC Asia Jakarta Regional Contest**
